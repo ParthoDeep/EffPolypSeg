@@ -1,11 +1,11 @@
 <h1 style="font-size: 32px; font-weight: bold; color: black;">
-  An Automated Deep Learning Algorithm for Polyp Segmentation in Colonoscopy
+EffPolypSeg: An Efficient Deep Learning Algorithm for Polyp Segmentation in Colonoscopy
 </h1>
 The implementation and experimental setup are provided as supplementary materials to support the findings presented in our manuscript, "An Automated Deep Learning Algorithm for Polyp Segmentation in Colonoscopy".
 <h1 style="font-size: 25px; font-weight: bold; color: black;">
 Authors:
 </h1>
-Partho Deep Saha, Afia Adilah, Deponker Sarker Depto, Dr. Mahdy Rahman Chowdhury
+Partho Deep Saha, Afia Adilah, Deponker Sarker Depto, M.R.C. Mahdy
 <h1 style="font-size: 25px; font-weight: bold; color: black;">
 Short Description:
 </h1>
