@@ -1,7 +1,7 @@
 <h1 style="font-size: 32px; font-weight: bold; color: black;">
 EffPolypSeg: A Multi-Scale, Size-Robust Framework for Polyp Segmentation Across Diverse Endoscopic Modalities
 </h1>
-The implementation and experimental setup are provided as supplementary materials to support the findings presented in our manuscript, "EffPolypSeg: An Efficient Deep Learning Algorithm for Polyp Segmentation in Colonoscopy".
+The implementation and experimental setup are provided as supplementary materials to support the findings presented in our manuscript, "EffPolypSeg: A Multi-Scale, Size-Robust Framework for Polyp Segmentation Across Diverse Endoscopic Modalities".
 <h1 style="font-size: 25px; font-weight: bold; color: black;">
 Authors:
 </h1>
