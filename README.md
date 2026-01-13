@@ -1,5 +1,5 @@
 <h1 style="font-size: 32px; font-weight: bold; color: black;">
-EffPolypSeg: An Efficient Deep Learning Algorithm for Polyp Segmentation in Colonoscopy
+EffPolypSeg: A Multi-Scale, Size-Robust Framework for Polyp Segmentation Across Diverse Endoscopic Modalities
 </h1>
 The implementation and experimental setup are provided as supplementary materials to support the findings presented in our manuscript, "EffPolypSeg: An Efficient Deep Learning Algorithm for Polyp Segmentation in Colonoscopy".
 <h1 style="font-size: 25px; font-weight: bold; color: black;">
@@ -39,39 +39,7 @@ Requirements:
   <li><b>Keras</b> = 2.8.0</li>
 </ul>  
 <h1 style="font-size: 25px; font-weight: bold; color: black;">
-Result:
-</h1>
-<h3 align="center">Table 1: Evaluation Metrics for EffPolypSegNet Model</h3>
-<br></br>
-<div align="center">
-  <table style="width:90%; border-collapse: collapse; text-align: center;">
-    <colgroup>
-      <col style="width:25%;">
-      <col style="width:25%;">
-      <col style="width:25%;">
-      <col style="width:25%;">
-    </colgroup>
-    <thead>
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px;">Dataset</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">Model</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">mIoU</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">DSC</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">BLI</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.8293</td><td style="border: 1px solid #ddd; padding: 8px;">0.9053</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">NBI</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.7828</td><td style="border: 1px solid #ddd; padding: 8px;">0.8436</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">FICE</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.9030</td><td style="border: 1px solid #ddd; padding: 8px;">0.9475</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">LCI</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.8965</td><td style="border: 1px solid #ddd; padding: 8px;">0.9446</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">WLI</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.8597</td><td style="border: 1px solid #ddd; padding: 8px;">0.9147</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">Kvasir-SEG</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.8672</td><td style="border: 1px solid #ddd; padding: 8px;">0.9199</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">CVC-ColonDB</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.8457</td><td style="border: 1px solid #ddd; padding: 8px;">0.9030</td></tr>
-      <tr><td style="border: 1px solid #ddd; padding: 8px;">CVC-ClinicDB</td><td style="border: 1px solid #ddd; padding: 8px;">EffPolypSegNet</td><td style="border: 1px solid #ddd; padding: 8px;">0.9045</td><td style="border: 1px solid #ddd; padding: 8px;">0.9489</td></tr>
-    </tbody>
-  </table>
-</div>
-</table>
+
       
 
 
